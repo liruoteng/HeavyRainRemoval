@@ -23,4 +23,8 @@ To run rain removal, please first download the [pretrained model](https://drive.
 python test.py
 ```
 
-## 2. Train (coming soon)
+## 2. Training Dataset
+
+You may download the synthetic [Outdoor-Rain](https://drive.google.com/open?id=1rFpW_coyxidYLK8vrcfViJLDd-BcSn4B) (7GB) datasets at here. 
+
+## 3. Train (coming soon)
