@@ -28,3 +28,6 @@ python test.py
 You may download the synthetic [Outdoor-Rain](https://drive.google.com/open?id=1rFpW_coyxidYLK8vrcfViJLDd-BcSn4B) (7GB) datasets at here. 
 
 ## 3. Train (coming soon)
+
+please email liruoteng@gmail.com if you have any issues running this code.
+
