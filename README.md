@@ -29,5 +29,7 @@ You may download the synthetic [Outdoor-Rain](https://www.dropbox.com/sh/zpadllq
 
 ## 3. Train (coming soon)
 
-please email liruoteng@gmail.com if you have any issues running this code.
+```python
+python train.py
+```
 
