@@ -16,7 +16,7 @@
 
 
 ## 1. Demo
-To run rain removal, please first download the [pretrained model](https://drive.google.com/open?id=16MPZuRfwa9wgUQooMyYIlRGSmBGcLXPy). Open your terminal and type:
+To run rain removal, please first download the [pretrained model](https://www.dropbox.com/s/h8x6xl6epc45ngn/HeavyRain-stage2-2019-05-11-76_ckpt.pth.tar?dl=0). Open your terminal and type:
 
 
 ```python
@@ -25,7 +25,7 @@ python test.py
 
 ## 2. Training Dataset
 
-You may download the synthetic [Outdoor-Rain](https://drive.google.com/open?id=1rFpW_coyxidYLK8vrcfViJLDd-BcSn4B) (7GB) datasets at here. 
+You may download the synthetic [Outdoor-Rain](https://www.dropbox.com/sh/zpadllquvmaztib/AACmzqQmGrRMp7qqXjbb7Gfza?dl=0) (7GB) datasets at here. 
 
 ## 3. Train (coming soon)
 
