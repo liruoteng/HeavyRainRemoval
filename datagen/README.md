@@ -2,7 +2,7 @@
 
 ## 0. Prerequisites
 1. Matlab
-2. Please download the background image datasets from [Google Drive Here](https://drive.google.com/open?id=1NpF55y0nu18S-uOcPH_e2iUOMKV1Rbh6) (409MB)
+2. Please download the background image datasets from [Google Drive Here](https://www.dropbox.com/s/b4z1r7o3esw32r8/BackgroundImages.tar.gz?dl=0) (409MB)
 3. Extract the .gz file and put the two folders at `$project_root/datagen/RaindropDepth` and `$project_root/datagen/RaindropGroundtruth`
 
 ## 1. Generate Rain Datasets
